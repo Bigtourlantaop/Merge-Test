@@ -61,7 +61,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/merge-sorted-arrays.git
-cd merge-sorted-arrays
+cd merge-project
 npm install
 ```
 
